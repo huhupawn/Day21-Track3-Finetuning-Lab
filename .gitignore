@@ -37,3 +37,6 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+
+# Submission extracted directories
+lab21_*/
